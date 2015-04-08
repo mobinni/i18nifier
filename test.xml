@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Afton">Benton</string>
+    <string name="Guillermo">Curtis</string>
+    <plurals name="Ernesto">
+        <item quantity="one">Candida omnis</item>
+        <item quantity="two">Candida natus</item>
+        <item quantity="many">Candida quos</item>
+        <item quantity="few">Candida aut</item>
+        <item quantity="other">Candida %d</item>
+    </plurals>
+    <plurals name="Ashley">
+        <item quantity="one">quos Barbara</item>
+        <item quantity="two">et Barbara</item>
+        <item quantity="many">placeat Barbara</item>
+        <item quantity="few">voluptatem Barbara</item>
+    </plurals>
+    <plurals name="Carmella">
+        <item quantity="one">enim</item>
+        <item quantity="two">quisquam</item>
+        <item quantity="many">vero</item>
+        <item quantity="few">aut</item>
+    </plurals>
+    <plurals name="Meghan">
+        <item quantity="one">odio</item>
+        <item quantity="two">distinctio</item>
+        <item quantity="many">accusantium</item>
+        <item quantity="few">veniam</item>
+    </plurals>
+    <plurals name="Jaqueline">
+        <item quantity="one">nihil</item>
+        <item quantity="two">esse</item>
+        <item quantity="many">at</item>
+        <item quantity="few">molestiae</item>
+    </plurals>
+    <plurals name="Lonie">
+        <item quantity="one">eius</item>
+        <item quantity="two">maiores</item>
+        <item quantity="many">voluptatem</item>
+        <item quantity="few">non</item>
+    </plurals>
+    <plurals name="Kay">
+        <item quantity="one">quia</item>
+        <item quantity="two">error</item>
+        <item quantity="many">cumque</item>
+        <item quantity="few">culpa</item>
+    </plurals>
+    <plurals name="Lavina">
+        <item quantity="one">est</item>
+        <item quantity="two">et</item>
+        <item quantity="many">qui</item>
+        <item quantity="few">nostrum</item>
+    </plurals>
+    <plurals name="Trenton">
+        <item quantity="one">ut</item>
+        <item quantity="two">aliquam</item>
+        <item quantity="many">aliquam</item>
+        <item quantity="few">ducimus</item>
+    </plurals>
+    <plurals name="Ransom">
+        <item quantity="one">labore</item>
+        <item quantity="two">ipsa</item>
+        <item quantity="many">ducimus</item>
+        <item quantity="few">ea</item>
+    </plurals>
+    <plurals name="Owen">
+        <item quantity="one">amet</item>
+        <item quantity="two">quibusdam</item>
+        <item quantity="many">ad</item>
+        <item quantity="few">eos</item>
+    </plurals>
+    <plurals name="Genevieve">
+        <item quantity="one">Kaden</item>
+        <item quantity="two"/>
+        <item quantity="many"/>
+        <item quantity="few"/>
+    </plurals>
+    <plurals name="Ashtyn">
+        <item quantity="one">cum</item>
+        <item quantity="two">accusantium</item>
+        <item quantity="many">dolores</item>
+        <item quantity="few">quisquam</item>
+    </plurals>
+</resources>
